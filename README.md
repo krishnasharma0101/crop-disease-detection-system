@@ -44,7 +44,10 @@ cd plant-disease-detection
 3. ## Set Up a Virtual Environment:
 
 python -m venv venv
-# On Windows, use `venv\Scripts\activate`
+## On Windows, use 
+
+`venv\Scripts\activate`
+## On Linux/Mac, use
 source venv/bin/activate  # On macOS/Linux
 
 4. ## Install Required Packages:
