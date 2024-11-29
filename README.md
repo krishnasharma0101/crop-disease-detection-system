@@ -33,28 +33,31 @@ The trained model is available as `last (2).pt` in the `model/` directory.
 ## Installation Instructions
 To set up the project locally, follow these steps:
 
-1. **Clone the repository**:
+1. ## Clone the repository:
    ```bash
    git clone https://github.com/krishnasharma0101/crop-disease-detection-system.git
 
 
-# **Navigate to the Project Directory**:
-cd plant-disease-detection
+2. ## Navigate to the Project Directory:
 
-# **Set Up a Virtual Environment**:
+cd plant-disease-detection
+3. ## Set Up a Virtual Environment:
+
 python -m venv venv
 # On Windows, use `venv\Scripts\activate`
 source venv/bin/activate  # On macOS/Linux
 
-# **Install Required Packages**:
+4. ## Install Required Packages:
+
 pip install -r requirements.txt
 
-# **Usage Guide**:
-# Run the application using Streamlit:
+
+**Usage Guide**:
+
+Run the application using Streamlit:
+
 streamlit run app.py
-
-# Open your web browser and go to http://localhost:8501 to access the app.
-
+Open your web browser and go to http://localhost:8501 to access the app.
 
 ## **Demo Video**
 ### Watch the Project Demo
