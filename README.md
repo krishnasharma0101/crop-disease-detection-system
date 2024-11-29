@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/plant-disease-detection.git
+   git clone https://github.com/krishnasharma0101/crop-disease-detection-system.git
 
 
 **Navigate to the Project Directory**:
