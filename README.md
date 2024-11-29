@@ -39,13 +39,16 @@ To set up the project locally, follow these steps:
 
 
 **Navigate to the Project Directory**:
-
-cd plant-disease-detection
+```bash
+    cd plant-disease-detection
 **Set Up a Virtual Environment**:
-
-python -m venv venv
-# On Windows, use `venv\Scripts\activate`
-source venv/bin/activate  # On macOS/Linux
+```bash
+    python -m venv venv
+** On Windows, use**
+ ```bash
+    venv\Scripts\activate`
+```bash
+    source venv/bin/activate  # On macOS/Linux
 
 **Install Required Packages**:
 
