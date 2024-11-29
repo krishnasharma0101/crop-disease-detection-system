@@ -1,0 +1,6 @@
+streamlit==1.22.0
+ultralytics==8.0.0
+Pillow==10.0.1
+requests==2.31.0
+numpy==1.26.0
+wikipedia==1.4.0
