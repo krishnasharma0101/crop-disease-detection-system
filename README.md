@@ -38,29 +38,23 @@ To set up the project locally, follow these steps:
    git clone https://github.com/krishnasharma0101/crop-disease-detection-system.git
 
 
-**Navigate to the Project Directory**:
-```bash
-    cd plant-disease-detection
-**Set Up a Virtual Environment**:
-```bash
-    python -m venv venv
-** On Windows, use**
- ```bash
-    venv\Scripts\activate`
-```bash
-    source venv/bin/activate  # On macOS/Linux
+# **Navigate to the Project Directory**:
+cd plant-disease-detection
 
-**Install Required Packages**:
+# **Set Up a Virtual Environment**:
+python -m venv venv
+# On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  # On macOS/Linux
 
+# **Install Required Packages**:
 pip install -r requirements.txt
 
-
-**Usage Guide**:
-
-Run the application using Streamlit:
-
+# **Usage Guide**:
+# Run the application using Streamlit:
 streamlit run app.py
-Open your web browser and go to http://localhost:8501 to access the app.
+
+# Open your web browser and go to http://localhost:8501 to access the app.
+
 
 ## **Demo Video**
 ### Watch the Project Demo
