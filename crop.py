@@ -13,7 +13,7 @@ if not API_KEY:
     st.stop()
 
 # Load YOLOv8 model
-model = YOLO("last (2).pt")
+model = YOLO("model/last (2).pt")
 
 # Sidebar for confidence level adjustment
 st.sidebar.title("Settings")
